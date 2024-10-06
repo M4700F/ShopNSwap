@@ -1,3 +1,3 @@
-$ cd ShopNSwap
-$ npm install 
-$ npm start
+`$ cd ShopNSwap`
+`$ npm install`
+`$ npm start`
